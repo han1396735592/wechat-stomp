@@ -1,0 +1,15 @@
+{
+  "name": "wechat-stomp",
+  "version": "1.0.7",
+  "description": "miniprogram-stomp",
+  "main": "src/index.js",
+  "miniprogram": "dist",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "dev": "webpack -w",
+    "publish": "npm publish"
+  },
+  "author": "han1396735592",
+  "license": "ISC"
+}
