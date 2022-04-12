@@ -1,6 +1,6 @@
 {
   "name": "wechat-stomp",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "miniprogram-stomp",
   "main": "src/index.js",
   "miniprogram": "dist",
